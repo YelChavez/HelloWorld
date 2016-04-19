@@ -1,0 +1,6 @@
+print "Hello World"
+nem = raw_input("enter your name")
+print "Hello" + nem
+#name
+
+
